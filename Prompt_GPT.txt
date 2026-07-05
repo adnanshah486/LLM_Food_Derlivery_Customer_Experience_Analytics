@@ -1,0 +1,5 @@
+I am a marketing researcher. I would like to analyze Customer Food delivery Experiences based on Extended European Customer Satisfaction Index Model (ECSI) Model. Can you analyze the following customer reviews according to the eight different constructs of Extended ECSI Model? Such as perceived quality, perceived value, perceived image, confirmation of expectations, overall satisfaction, customer complaints, customer trust, and customer loyalty.
+Please proceed step by step as follows for each construct: First, (1) reproduce the passages you are referring to. Then, (2) provide your justification in 1–2 sentences, and (3) conclude with an assessment of how strongly you judge this phenomenon on a scale from -100 to +100. Please grade missing values as +999 if the construct cannot be inferred from a customer review. 
+
+Here is the Extended European Customer Satisfaction Index Model: 
+Askariazad MH, Babakhani N (2015), "An application of European Customer Satisfaction Index (ECSI) in business to business (B2B) context". Journal of Business & Industrial Marketing, Vol. 30 No. 1 pp. 17–31, doi: https://doi.org/10.1108/JBIM-07-2011-0093
